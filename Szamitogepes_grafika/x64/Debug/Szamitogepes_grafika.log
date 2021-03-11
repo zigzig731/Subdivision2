@@ -1,0 +1,51 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  stb_image.cpp
+  Shader.cpp
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Shader.cpp(54,74): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Shader.cpp(97,76): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Source.cpp
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Source.cpp(171,78): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Source.cpp(193,76): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Source.cpp(221,79): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Source.cpp(381,38): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Source.cpp(382,40): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  Subdiv.cpp
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(216,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(222,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(309,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(310,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(311,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(315,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(316,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(317,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(321,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(322,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(323,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(327,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(328,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(329,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(340,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(345,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(385,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(412,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(471,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(472,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(473,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(477,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(478,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(479,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(483,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(484,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(485,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(489,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(490,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gorog\Downloads\Szamitogepes_grafika\Szamitogepes_grafika\Subdiv.cpp(491,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\gorog\Downloads\Szamitogepes_grafika\x64\Debug\vc120.pdb'; linking object as if no debug info
+  Szamitogepes_grafika.vcxproj -> C:\Users\gorog\Downloads\Szamitogepes_grafika\x64\Debug\Szamitogepes_grafika.exe
+  C:\Users\gorog\Downloads\Szamitogepes_grafika\libs\assimp\lib\x64\assimp-vc140-mt.dll
+  1 File(s) copied
